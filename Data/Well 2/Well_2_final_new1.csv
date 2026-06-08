@@ -1,0 +1,649 @@
+DEPT[M],WELL,CALIPER[MM],DEN[GM/CC],RES(64N),RES[OHM],SP[MV],GAM[API],LITHOLOGY DESCRIPTION,Formation,Classified
+24,2,10.3561,1.83074,59.3437,31.6238,81.7457,94.5149,"Very fine grained Sandstone , loose ",Raniganj,Sandstone (SST)
+25.5,2,10.3689,2.34565,55.1437,32.7835,98.9245,73.0805,"Very fine grained Sandstone , ferruginous ",Raniganj,Sandstone (SST)
+27,2,10.3799,2.31701,48.1592,29.1288,73.0515,81.3777,Claystone,Raniganj,Sandstone (SST)
+28.5,2,10.3408,2.08735,7.41352,27.5045,62.4829,104.195,Claystone,Raniganj,Sandstone (SST)
+31,2,13.6928,1.73802,-2.5627,62.8995,40.3063,158.127,"Very fine grained Sandstone mixed with clay and Shale,Micaceous",Raniganj,Sandstone (SST)
+31.2,2,14.0563,1.83947,-1.64745,56.1686,44.9197,182.327,Medium grained Sandstone ,Raniganj,Sandstone (SST)
+31.5,2,14.0585,1.98826,0.31785,60.2327,46.7003,165.733,Dark grey Shale ,Raniganj,dgs
+31.69,2,14.047,2.00417,4.98051,63.4218,47.105,176.104,"Grey Shale , highly pulverized",Raniganj,Grey Shale
+31.77,2,14.1689,2.02087,11.2503,66.4971,47.105,171.956,"Medium grained Sandstone, Whitish",Raniganj,Sandstone (SST)
+31.81,2,14.1799,2.03492,13.676,66.0909,47.0041,165.733,Dark grey Shale ,Raniganj,dgs
+31.87,2,14.2148,2.06263,15.8338,65.0471,47.0038,169.881,Grey Shale ,Raniganj,Grey Shale
+32.17,2,14.2661,2.14734,14.6444,68.9342,46.5586,158.127,Shaly coal with bright band,Raniganj,coal
+32.32,2,14.4145,2.14104,14.3236,65.7496,46.5384,163.658,Carbonaceous shale with Shale band,Raniganj,Carb shale
+32.51,2,14.5501,2.09259,17.8016,57.9128,46.5384,193.39,Dark grey Shale ,Raniganj,dgs
+32.56,2,14.5474,2.08646,18.488,56.2311,46.2956,194.082,Shaly Sandstone,Raniganj,Sandstone (SST)
+32.71,2,14.6998,2.08725,20.8219,51.2957,46.2956,191.316,Dark Grey Shale,Raniganj,dgs
+32.76,2,14.7214,2.09046,21.6456,51.5838,46.2956,186.476,Shaly Sandstone,Raniganj,Sandstone (SST)
+32.91,2,14.861,2.09767,22.2405,55.7027,46.3158,174.721,"Dark grey Shale, silty ",Raniganj,dgs
+32.99,2,14.9396,2.10149,22.927,56.1102,46.3158,158.127,Carbonaceous shale ,Raniganj,Carb shale
+34,2,15.039,2.2609,24.7575,64.2311,45.9719,189.241,"Grey Shale , clayey , silty ,micaceous",Raniganj,Grey Shale
+34.4,2,14.982,2.21804,23.6592,67.2465,45.4458,154.67,"Grey Shale ,clayey in nature , loose , micaceous",Raniganj,Grey Shale
+37,2,13.5775,2.23326,20.5016,63.128,44.3127,193.39,"Fine grained Sandstone , Grey , with Shale lamination",Raniganj,Sandstone (SST)
+37.7,2,12.9115,2.47306,17.7093,128.874,43.0582,102.812,Shaly Sandstone with Shale lamination,Raniganj,Sandstone (SST)
+38,2,12.8664,2.42898,19.0372,116.191,42.4714,140.841,"Grey Shale , clayey in nature , loose ,micaeous",Raniganj,Grey Shale
+38.9,2,13.1433,2.26277,37.1139,90.6937,44.3734,113.184,"Fine grained  Sandstone with Feldspar clast , hard and compact+Shale 1m ,slightly recrystallised",Raniganj,Sandstone (SST)
+40.9,2,13.1226,2.28146,24.1637,59.418,43.908,229.345,"Medium - Fine grained Sandstone , with Shale lamination",Raniganj,Sandstone (SST)
+41,2,13.1164,2.26968,23.2931,59.9364,43.827,231.419,Grey Shale,Raniganj,Grey Shale
+41.6,2,12.9486,2.25298,18.2592,102.355,42.9974,152.595,Grey Shale,Raniganj,Grey Shale
+42.1,2,12.9353,2.23711,20.8196,116.341,44.0294,151.213,Grey Shale,Raniganj,Grey Shale
+42.4,2,13.0418,2.23415,24.4371,60.3554,43.7866,218.973,Shaly Sandstone,Raniganj,Sandstone (SST)
+43.7,2,13.1849,2.26351,24.4366,102.995,44.4948,140.15,"Coarse grained Sandstone , with Shale lamination",Raniganj,Sandstone (SST)
+43.89,2,13.1986,2.25694,21.3282,96.9024,42.2488,178.179,Shaly Sandstone,Raniganj,Sandstone (SST)
+44,2,13.2069,2.25449,18.8541,82.9318,42.2488,192.007,Grey Shale,Raniganj,Grey Shale
+44.3,2,13.195,2.27302,19.8124,112.627,44.4513,155.361,Grey Shale,Raniganj,Grey Shale
+44.94,2,13.3704,2.18819,24.9847,53.3254,42.1679,255.619,Sandy Shale,Raniganj,ss
+44.99,2,13.3717,2.21348,26.2676,53.7312,42.1679,262.534,Medium grained Sandstone with Shale band,Raniganj,Sandstone (SST)
+45.1,2,13.3911,2.2507,28.3247,55.2402,42.1476,248.013,Shaly Sandstone,Raniganj,Sandstone (SST)
+45.69,2,13.3964,2.28684,22.1481,54.5439,41.6822,286.734,Medium - Coarse Sandstone with Shale lamination,Raniganj,Sandstone (SST)
+47.2,2,13.5329,2.23255,50.3844,131.311,44.2722,145.681,Grey Shale with Sandstone band at Middle,Raniganj,alt
+47.8,2,13.585,2.2616,63.6556,147.847,44.8185,209.293,Shaly Sandstone,Raniganj,Sandstone (SST)
+48.8,2,13.71,2.16261,56.059,99.9301,41.3383,248.705,"Medium grained Sandstone,grey , gritty",Raniganj,Sandstone (SST)
+49.15,2,13.7113,2.15714,59.4912,72.3562,41.5406,237.642,"Coarse grained Sandstone ,grey, gritty",Raniganj,Sandstone (SST)
+49.27,2,13.7122,2.19441,60.5437,81.2226,41.5406,205.144,"Coarse grained Sandstone ,grey, gritty",Raniganj,Sandstone (SST)
+49.4,2,13.714,2.22962,56.4251,104.712,42.4511,176.104,"Fine grained Sandstone , Grey ",Raniganj,Sandstone (SST)
+49.85,2,13.6959,2.19235,26.5871,130.615,41.318,124.247,"Grey Shale , Sandy ",Raniganj,Grey Shale
+50.6,2,13.733,2.16232,27.3659,55.8209,39.6993,251.471,"Medium - Coarse grained Sandstone , Gritty , whitish",Raniganj,Sandstone (SST)
+50.77,2,13.6155,2.2829,26.1304,62.8995,39.0738,252.853,"Shaly coal , pyrite at bottom",Raniganj,coal
+51.25,2,13.4273,2.31721,36.2411,71.8935,40.1419,223.813,"Grey Shale , Sandy at bottom",Raniganj,Grey Shale
+51.43,2,13.4282,2.30717,35.1913,97.923,40.1444,167.116,Shaly Sandstone,Raniganj,Sandstone (SST)
+51.8,2,13.468,2.2715,32.1252,112.291,38.2627,160.201,"Sandstone , Feldspar clast",Raniganj,Sandstone (SST)
+52.15,2,13.5227,2.36068,30.7066,81.7532,37.251,259.768,"Very coarse grained Sandstone ,gritty , Whitish",Raniganj,Sandstone (SST)
+52.3,2,13.5338,2.36678,31.0724,87.5023,38.0806,244.556,"Very coarse grained Sandstone ,gritty , Whitish",Raniganj,Sandstone (SST)
+53.65,2,13.5532,2.30092,29.9744,61.7888,37.5342,232.11,Shaly Sandstone,Raniganj,Sandstone (SST)
+54.21,2,13.4936,2.27072,31.5761,128.051,38.3031,307.477,Sandy Shale,Raniganj,ss
+54.657,2,13.4909,2.26182,29.1049,102.312,38.1413,298.488,Shaly Sandstone,Raniganj,Sandstone (SST)
+55.017,2,13.4949,2.28332,34.7795,108.512,37.6354,244.556,"Very coarse grained Sandstone ,gritty , with quartz pebbles ,whitish",Raniganj,Sandstone (SST)
+55.697,2,13.2551,2.31467,37.9371,71.5325,37.5949,279.819,"Fine grained Sandstone , Greyish white , with shale lamination",Raniganj,Sandstone (SST)
+55.967,2,13.184,2.30052,36.3354,111.974,39.7802,208.602,Shaly Sandstone,Raniganj,Sandstone (SST)
+56.147,2,13.157,2.25442,36.0596,124.929,38.5864,190.624,Grey Shale,Raniganj,Grey Shale
+56.487,2,13.1403,2.27106,35.2371,108.809,37.2712,196.156,Shaly Sandstone,Raniganj,Sandstone (SST)
+56.937,2,13.1517,2.15062,23.7049,68.0922,36.4214,216.899,"Very Coarse grained Sandstone , with Shale lamination, Quartz Pebbles",Raniganj,Sandstone (SST)
+57.517,2,13.1297,1.62621,14.9642,124.639,36.7852,126.321,Fine grained Sandstone with shale lamination and shale band(0.06 cm ),Raniganj,Sandstone (SST)
+57.887,2,13.0877,1.90958,15.8796,85.1988,36.4011,227.27,Grey Shale,Raniganj,Grey Shale
+58.067,2,12.957,2.10485,17.479,71.3713,36.4618,268.756,Carbonaceous Shale ,Raniganj,Carb shale
+58.147,2,12.9358,2.16335,19.7651,70.2688,36.4618,268.756,"Coal , broken ",Raniganj,coal
+58.457,2,12.9035,2.28039,32.0337,68.9344,36.4821,289.499,"Coal, bright band",Raniganj,coal
+59.247,2,12.8143,2.30904,46.4489,85.9953,36.3809,231.419,Grey Shale,Raniganj,Grey Shale
+59.867,2,12.5834,2.36313,43.1518,104.098,35.7334,152.595,Fine grained Sandstone with  shale band,Raniganj,alt
+59.967,2,12.5467,2.39405,43.9319,109.082,35.6727,142.915,Sandy Shale,Raniganj,ss
+60.207,2,12.4923,2.47656,45.2591,138.257,34.5598,109.727,Shaly sandstone,Raniganj,Sandstone (SST)
+62.647,2,14.4427,2.16411,44.3438,99.0588,35.1264,142.224,"Fine grained Sandstone , whitish ",Raniganj,Sandstone (SST)
+63.237,2,14.7762,2.33955,38.4888,82.0479,35.4299,214.825,"Fine grained Sandstone , whitish ",Raniganj,Sandstone (SST)
+63.357,2,14.8508,2.35187,35.4678,81.6998,35.0657,203.762,Grey Shale,Raniganj,Grey Shale
+63.567,2,14.9727,2.33494,35.694,83.5519,34.5801,176.104,Sandy Shale,Raniganj,ss
+64.187,2,15.1529,2.28139,36.244,67.3675,34.9847,229.345,Shaly Sandstone,Raniganj,Sandstone (SST)
+64.797,2,15.2848,2.35711,36.4269,81.759,34.3777,218.282,Sandy Shale,Raniganj,ss
+65.787,2,15.2657,2.18109,12.8135,67.9524,34.2159,255.619,Shaly Sandstone,Raniganj,Sandstone (SST)
+66.367,2,15.3385,1.92723,12.6311,76.9417,33.0827,198.23,Sandy Shale,Raniganj,ss
+66.547,2,15.4198,2.17104,12.1728,66.8987,33.1839,188.55,Dark Grey Shale,Raniganj,dgs
+66.737,2,15.4828,2.31251,12.4927,73.5182,32.6376,189.242,"Coal , Vitrian light band",Raniganj,coal
+66.767,2,15.5078,2.33264,12.9952,74.2725,32.6376,186.476,Grey Shale,Raniganj,Grey Shale
+66.877,2,15.5309,2.36296,15.0101,73.8101,32.6376,196.847,Carbonaceous Shale With Sandstone band,Raniganj,alt
+67.147,2,15.5585,2.369,28.9676,83.1455,32.5364,158.818,Sandy Shale,Raniganj,ss
+67.617,2,15.6825,2.36564,30.2039,78.9146,32.7777,161.584,Sandy Shale,Raniganj,ss
+68.117,2,15.776,2.29887,28.6473,68.641,32.7995,208.602,Shaly Sandstone,Raniganj,Sandstone (SST)
+68.637,2,15.8054,2.35753,25.3066,69.1657,32.1115,187.167,Sandy Shale,Raniganj,ss
+69.627,2,15.7153,2.16671,22.8355,45.1467,32.9411,222.43,Shaly Sandstone With Shale band,Raniganj,alt
+69.917,2,15.6395,1.93829,24.3456,44.0399,33.9528,180.253,Sandy Shale,Raniganj,ss
+70.827,2,15.3308,1.94423,10.9397,93.6,31.2212,118.024,Dark Grey Shale,Raniganj,dgs
+71.267,2,15.3378,1.73275,7.59644,92.3384,31.0189,137.384,"Fine grained Sandstone, whitish , Shale lamination",Raniganj,Sandstone (SST)
+71.647,2,15.5346,1.66121,8.74063,103.495,30.7761,144.298,Shaly Coal,Raniganj,coal
+71.857,2,15.4393,1.77,11.4864,104.401,29.9869,153.287,Coal,Raniganj,coal
+72.027,2,15.457,2.04923,16.1053,78.2183,29.0764,216.899,Grey Shale,Raniganj,Grey Shale
+72.457,2,15.2183,2.33784,26.9998,78.3351,28.9955,187.167,Coal,Raniganj,coal
+73.067,2,15.0262,2.33408,32.2193,74.5046,28.955,167.116,Sandy Shale,Raniganj,ss
+73.657,2,14.7731,2.46701,27.732,100.43,28.9348,127.704,"Fine grained Sandstone, whitish , Shale lamination",Raniganj,Sandstone (SST)
+73.997,2,14.7444,2.33693,26.634,72.3577,29.1573,216.899,Sandy Shale,Raniganj,ss
+74.587,2,14.4913,2.32995,26.9083,66.207,29.1155,283.277,Shaly Sandstone,Raniganj,Sandstone (SST)
+74.647,2,14.4812,2.33128,26.9998,65.7444,29.1169,286.042,Sandy Shale,Raniganj,ss
+75.447,2,14.2828,2.38734,25.627,69.9287,28.1254,171.956,Sandy Shale,Raniganj,ss
+78.677,2,14.5938,2.22574,22.6982,50.0815,28.6312,298.488,"Fine grained Sandstone with shale lamination , whitish",Raniganj,Sandstone (SST)
+79.147,2,14.6004,2.14668,22.3778,48.6225,26.6483,242.482,Sandy Shale,Raniganj,ss
+79.477,2,14.5024,2.31705,21.5541,75.7023,28.8538,198.23,"Grey Shale , Broken at Bottom",Raniganj,Grey Shale
+79.887,2,14.4617,2.12913,11.9451,65.8008,26.9113,220.356,"Dark Grey Shale , Broken at top , ",Raniganj,dgs
+80.257,2,14.3972,1.90433,9.79365,65.5107,26.5471,178.87,Shaly Sandstone,Raniganj,Sandstone (SST)
+80.497,2,14.3835,1.76666,8.10044,97.2506,26.5067,121.481,Grey Shale,Raniganj,Grey Shale
+80.607,2,14.3791,1.75833,7.13943,100.558,26.5268,124.247,Shaly Coal with carb shale band,Raniganj,coal
+80.747,2,14.3787,1.77104,7.41352,88.3663,26.5269,149.83,Grey Shale,Raniganj,Grey Shale
+81.267,2,14.3743,1.81613,9.7474,70.6276,26.972,171.264,Coal with 0.03cm  Shale band,Raniganj,coal
+81.347,2,14.3729,1.8726,10.3423,73.222,26.0615,180.253,Carbonaceous shale ,Raniganj,Carb shale
+81.417,2,14.3725,1.91047,11.6217,71.8935,26.0615,211.367,Carbonaceous shale with shale band,Raniganj,Carb shale
+81.677,2,14.3849,1.99149,14.5525,52.8014,26.4662,281.202,Coal,Raniganj,coal
+81.797,2,14.3858,1.95696,15.6508,59.6409,26.4662,235.568,Carbonaceous shale,Raniganj,Carb shale
+82.307,2,14.369,2.24638,23.3846,81.003,25.495,221.739,Dark Grey Shale,Raniganj,dgs
+82.507,2,14.3716,2.34679,22.4694,80.1336,25.495,195.464,Coal,Raniganj,coal
+83.067,2,14.3464,2.34429,46.1743,79.8396,24.1393,214.133,Shaly Sandstone with Shale lamination,Raniganj,Sandstone (SST)
+83.647,2,14.2678,2.14679,14.4658,55.3562,24.7058,214.825,Sandy Shale,Raniganj,ss
+84.167,2,14.1883,1.57753,10.7998,131.021,25.0903,101.429,Sandy Shale with Shaly sandstone,Raniganj,alt
+84.297,2,14.5024,1.60887,10.891,128.758,23.3501,104.195,Dark grey Shale,Raniganj,dgs
+84.367,2,14.6335,1.70451,10.8915,120.635,23.3501,126.321,Carbonaceous shale ,Raniganj,Carb shale
+84.847,2,14.3376,2.34974,18.9401,63.7119,22.2575,205.145,Coal ,Raniganj,coal
+85.787,2,14.335,2.3208,31.7139,71.2533,19.8496,162.967,Sandy shale ,Raniganj,ss
+86.687,2,14.3257,2.3344,35.1456,70.1527,19.9711,194.773,"Shaly sandstone , with shale lamination",Raniganj,Sandstone (SST)
+87.737,2,14.2652,1.60617,19.3575,106.347,23.6537,116.641,Sandy Shale ,Raniganj,ss
+87.787,2,14.2665,1.59011,17.9867,112.221,23.6537,115.949,Dark Grey Shale,Raniganj,dgs
+87.937,2,14.3049,1.6485,15.8338,105.68,21.6909,140.15,Shaly Coal,Raniganj,coal
+88.147,2,14.4613,1.88347,10.6184,79.4368,21.4077,190.624,Coal,Raniganj,coal
+88.247,2,14.4745,1.9694,10.7073,66.1088,21.4077,209.985,Grey Shale,Raniganj,Grey Shale
+88.367,2,14.467,2.00561,14.0908,60.6353,21.9135,206.527,Coal,Raniganj,coal
+88.587,2,14.5125,1.81032,20.41,77.9862,23.1073,152.595,Shaly Sandstone,Raniganj,Sandstone (SST)
+88.787,2,14.5355,1.5951,19.0372,103.517,25.414,108.344,Sandy Shale,Raniganj,ss
+88.927,2,14.6066,1.48324,14.1881,127.928,25.414,71.0062,Carbonaceous Shale with Shaly coal band,Raniganj,Carb shale
+89.977,2,15.3853,2.08294,12.4922,60.4128,20.8209,252.853,Shaly coal ,Raniganj,coal
+90.057,2,15.475,2.12304,13.3151,53.2183,20.8209,257.002,Grey Shale,Raniganj,Grey Shale
+90.197,2,15.6031,2.11264,15.0543,50.6562,25.2117,234.185,Coal,Raniganj,coal
+90.627,2,16.1023,2.12905,18.4421,58.7914,18.5344,194.773,Grey Shale,Raniganj,Grey Shale
+90.747,2,16.2652,2.23542,19.3562,49.8474,18.5344,236.259,Coal,Raniganj,coal
+90.867,2,16.3977,2.29922,19.7694,49.0891,18.4333,254.928,Fine grained Sandstone  with Shale,Raniganj,Sandstone (SST)
+91.097,2,16.6802,2.34423,19.8598,50.5977,19.0992,228.653,Dark Grey Shale,Raniganj,dgs
+91.877,2,17.6382,2.36236,25.3066,66.8394,19.9913,180.944,Sandy Shale,Raniganj,ss
+92.647,2,18.4257,2.32261,26.2676,64.2922,19.9306,118.715,"Fine grained Sandstone with shale lamination ,whitish",Raniganj,Sandstone (SST)
+97.147,2,15.8451,2.38553,22.5151,63.7119,16.6729,88.9835,"Fine grained Sandstone with shale lamination ,whitish, ",Raniganj,Sandstone (SST)
+98.147,2,15.0982,2.46911,22.6514,71.5443,16.3289,96.5893,"Fine grained Sandstone with shale lamination ,whitish, ",Raniganj,Sandstone (SST)
+102.347,2,16.2079,2.26653,20.4103,60.2293,17.543,120.098,"Fine grained Sandstone with shale lamination ,whitish, ",Raniganj,Sandstone (SST)
+102.397,2,16.2491,2.26669,20.4557,60.404,17.7048,123.555,"Fine grained Sandstone with shale lamination ,whitish, ",Raniganj,Sandstone (SST)
+103.507,2,17.6154,2.33241,16.0169,57.155,17.2192,185.093,Alterenate Shale and Sandstone,Raniganj,alt
+103.917,2,17.9824,2.31122,15.9253,53.1455,17.3001,188.55,"Fine grained Sandstone ,whitish",Raniganj,Sandstone (SST)
+104.577,2,18.3161,2.31771,15.8796,52.0488,16.8955,208.602,Sandy Shale,Raniganj,ss
+105.377,2,18.3533,2.29857,15.7421,55.7603,17.199,178.179,Shaly Sandstone,Raniganj,Sandstone (SST)
+106.847,2,17.7375,2.36271,16.0626,57.7933,16.41,190.624,Sandy Shale,Raniganj,ss
+109.777,2,15.1013,2.29167,21.5994,56.1712,15.56,183.019,Sandy Shale,Raniganj,ss
+111.347,2,13.4887,2.4643,25.9929,78.7408,12.9903,108.344,"Fine grained Sandstone with shale lamination, whitish",Raniganj,Sandstone (SST)
+114.057,2,15.2727,2.26152,23.888,56.1101,16.167,132.544,"Fine grained Sandstone with shale lamination,whitish, ",Raniganj,Sandstone (SST)
+114.097,2,15.3051,2.25067,23.5677,56.3421,16.167,147.755,Grey Shale,Raniganj,Grey Shale
+115.017,2,15.7105,2.32748,19.037,57.3291,15.216,197.539,Shaly sandstone with shale band,Raniganj,alt
+115.847,2,16.0938,2.32736,20.3185,60.6946,15.5803,164.35,"Fine grained Sandstone , greyish white",Raniganj,Sandstone (SST)
+116.447,2,16.2744,2.26261,18.6717,57.5679,15.9647,188.55,"Fine grained Sandstone , greyish white",Raniganj,Sandstone (SST)
+116.937,2,16.3815,2.31538,17.1616,63.6456,15.4184,190.624,"Grey Shale ,",Raniganj,Grey Shale
+117.637,2,16.5481,2.25777,17.2069,57.2703,14.6495,214.133,Sandy shale ,Raniganj,ss
+119.137,2,16.7041,2.34551,17.343,70.9071,15.6789,165.041,Shaly Sandstone,Raniganj,Sandstone (SST)
+119.847,2,16.6328,2.00772,7.09428,42.5907,14.8316,247.322,Dark Grey shale,Raniganj,dgs
+120.347,2,19.2801,1.67543,6.81848,83.0882,15.3577,144.298,Shaly coal with bright band ,Raniganj,coal
+121.047,2,17.0102,2.32944,11.9898,52.8585,16.6527,180.253,Sandy shale ,Raniganj,ss
+123.207,2,17.061,2.37304,26.1304,58.5476,14.6697,192.699,Shaly Sandstone,Raniganj,Sandstone (SST)
+124.747,2,17.0334,2.32208,24.2993,70.2037,13.7389,102.121,"Fine grained Sandstone , greyish white",Raniganj,Sandstone (SST)
+128.847,2,18.2383,2.30641,35.2408,64.6403,14.7507,122.172,"Fine grained Sandstone , greyish white",Raniganj,Sandstone (SST)
+128.927,2,18.2008,2.30568,31.8545,64.5823,14.7507,111.801,"Fine grained Sandstone , greyish white",Raniganj,Sandstone (SST)
+129.467,2,17.8609,1.83614,16.476,82.5696,14.2448,138.075,Coal,Raniganj,coal
+129.747,2,17.7033,1.62118,12.6322,88.0233,13.9413,108.344,Carbonaceous shale,Raniganj,Carb shale
+130.667,2,17.6599,1.52571,8.87791,102.299,13.6378,97.2807,Coal,Raniganj,coal
+131.237,2,17.5363,2.13501,14.7813,59.2439,12.9498,173.338,Shaly Sandstone,Raniganj,Sandstone (SST)
+132.347,2,17.7158,2.35002,25.1247,52.7442,13.8806,236.95,Sandy Shale,Raniganj,ss
+134.367,2,17.5385,2.35197,19.8609,54.6599,12.8689,196.847,Sandy Shale With prominent sand bands,Raniganj,ss
+134.917,2,17.3384,2.33991,20.6841,54.3121,13.5568,229.345,Grey Shale,Raniganj,Grey Shale
+135.267,2,17.1577,2.32431,21.0966,50.7722,13.1117,220.356,Fine grained Sandstone,Raniganj,Sandstone (SST)
+135.397,2,17.1084,2.32301,21.6904,51.2364,13.1117,198.23,Shaly Sandstone,Raniganj,Sandstone (SST)
+136.847,2,16.3881,2.46445,25.5804,67.7737,11.0073,85.5263,"Fine to medium grained Sandstone,",Raniganj,Sandstone (SST)
+138.317,2,16.7159,2.35023,29.471,60.7526,12.8689,93.8235,Medium grained Sandstone ,Raniganj,Sandstone (SST)
+139.737,2,17.4859,2.33894,31.9422,67.3675,15.4386,83.452,Fine grained Sandstone,Raniganj,Sandstone (SST)
+140.027,2,17.6581,2.24782,13.599,73.8646,15.2363,86.9092,Dark Grey Shale,Raniganj,dgs
+140.257,2,17.7772,2.09619,7.77961,68.0141,13.3747,123.555,Coal ( Sub bright),Raniganj,coal
+140.407,2,17.849,1.93353,6.86478,56.0557,13.1926,169.881,Shaly Sandstone,Raniganj,Sandstone (SST)
+140.847,2,18.0769,1.91588,7.047,75.9778,12.8891,131.161,Sandy Shale,Raniganj,ss
+141.247,2,18.3974,2.34699,9.65434,55.1241,13.1522,216.899,Shaly Sandstone,Raniganj,Sandstone (SST)
+142.047,2,19.1688,2.36267,29.1507,59.9983,14.2246,204.453,Fine grained sandstone with shale bands,Raniganj,Sandstone (SST)
+142.447,2,19.5598,2.36487,25.8109,60.9847,14.0425,196.847,Medium grained sandstone with shale lamination,Raniganj,Sandstone (SST)
+142.547,2,19.6434,2.36256,25.4439,60.9267,14.346,167.116,Shaly Sandstone,Raniganj,Sandstone (SST)
+143.047,2,20.0519,2.37466,23.7966,60.5782,14.4067,156.744,Medium grained Sandstone,Raniganj,Sandstone (SST)
+143.147,2,20.1115,2.3665,23.7049,60.8106,14.4067,164.35,Shaly Sandstone ,Raniganj,Sandstone (SST)
+144.847,2,20.3154,2.34618,24.483,49.3811,13.4147,133.235,Medium grained sandstone with shale streaks,Raniganj,Sandstone (SST)
+145.077,2,20.2617,2.33924,24.1626,49.0315,13.4152,127.012,Medium grained sandstone ,Raniganj,Sandstone (SST)
+145.357,2,20.208,2.32064,23.0185,51.4681,13.2938,159.51,Medium to coarse grained sandstone,Raniganj,Sandstone (SST)
+146.367,2,19.8229,2.28754,21.5541,54.3698,13.7592,124.938,Coarse grained Sandstone,Raniganj,Sandstone (SST)
+147.147,2,19.3437,2.34981,23.4762,52.8612,12.707,149.83,Medium grained Sandstone,Raniganj,Sandstone (SST)
+147.807,2,18.8022,2.37602,23.522,59.5953,11.7155,102.812,Coarse grained Sandstone,Raniganj,Sandstone (SST)
+148.997,2,17.8987,2.4355,27.4107,63.8329,10.5015,109.035,"Fine to medium grained Sandstone, Shale streaks",Raniganj,Sandstone (SST)
+149.597,2,17.6945,2.35789,33.7727,55.1241,11.9381,119.407,Fine grained sandstone ,Raniganj,Sandstone (SST)
+149.907,2,17.5676,2.31516,27.8236,57.9094,11.6751,123.555,Medium grained sandstone,Raniganj,Sandstone (SST)
+150.257,2,17.4432,2.31251,10.7593,64.6983,12.6868,116.641,Shaly coal with silicate mineralisation ,Raniganj,coal
+150.307,2,17.4108,2.27513,8.28649,68.8705,12.6261,109.035,Shaly coal,Raniganj,coal
+150.827,2,17.2986,1.54421,6.31494,107.641,12.5249,99.355,Sandy shale,Raniganj,ss
+151.367,2,17.4506,2.27396,13.1304,59.0105,11.9381,209.293,Fine grained sandstone with shale bands,Raniganj,Sandstone (SST)
+152.697,2,17.6871,2.33095,36.793,61.7971,12.3023,218.973,Fine grained sandstone with shale bands,Raniganj,Sandstone (SST)
+153.147,2,17.7316,2.33684,22.9775,63.1934,11.7155,178.87,Grey Shale,Raniganj,Grey Shale
+153.297,2,17.7493,2.30498,17.4355,55.126,11.7155,239.716,Dark grey shale,Raniganj,dgs
+153.497,2,17.7848,2.21004,9.83892,55.1233,11.5334,290.882,Shaly coal ,Raniganj,coal
+153.747,2,17.8223,1.87917,8.05503,63.2477,11.9786,170.573,Shaly coal ,Raniganj,coal
+153.997,2,17.8717,1.66424,7.87128,84.1368,12.1,122.172,Silty shale,Raniganj,Shale
+154.457,2,18.1547,2.23195,9.28866,58.0806,12.8689,184.401,Fine to medium grained Sandstone,Raniganj,Sandstone (SST)
+155.697,2,19.1612,2.30984,23.3846,57.4452,12.3428,177.487,Fine grained sandstone with shale bands,Raniganj,Sandstone (SST)
+155.937,2,19.3384,2.27347,21.966,56.981,12.1,178.179,Sandy shale,Raniganj,ss
+157.797,2,20.5532,2.3378,20.2728,49.1475,11.3513,152.595,Fine grained sandstone,Raniganj,Sandstone (SST)
+159.197,2,21.0028,2.31927,19.5408,51.9331,11.0073,105.578,Fine grained sandstone,Raniganj,Sandstone (SST)
+161.097,2,21.0904,2.28071,21.005,54.1957,11.7762,101.429,Medium grained sandstone,Raniganj,Sandstone (SST)
+165.597,2,20.0799,2.29723,21.6006,57.4473,9.95517,110.418,Medium grained Sandstone,Raniganj,Sandstone (SST)
+167.297,2,19.4732,2.31204,18.808,52.9192,10.0563,113.875,Fine to medium grained sandstone ,Raniganj,Sandstone (SST)
+167.517,2,19.4659,2.28114,19.266,54.1373,10.0159,89.6749,Shaly Sandstone,Raniganj,Sandstone (SST)
+169.727,2,18.7742,2.32229,19.8146,56.2263,9.69213,178.179,Fine grained sandstone,Raniganj,Sandstone (SST)
+169.897,2,18.6692,2.32722,20.181,54.5449,9.69213,153.978,Sandy Shale,Raniganj,ss
+170.227,2,18.3872,2.34563,13.4084,51.7003,9.61119,145.681,Grey Shale,Raniganj,Grey Shale
+170.437,2,18.2472,2.34417,9.33554,51.8178,9.30768,199.613,Dark grey shale,Raniganj,dgs
+170.617,2,18.1063,2.26664,6.54417,46.3043,9.30768,223.813,Shaly coal ,Raniganj,coal
+170.797,2,17.9929,2.06835,6.49827,50.3011,9.97541,209.985,Sandy shale,Raniganj,ss
+171.017,2,17.8632,1.85201,5.85759,59.7662,10.4206,155.361,Grey Shale,Raniganj,Grey Shale
+171.267,2,17.6573,1.93935,5.58274,54.7877,10.1575,176.104,Coaly Shale,Raniganj,Shale
+171.387,2,17.5951,2.07502,5.67412,48.6267,10.3396,192.699,Grey Shale,Raniganj,Grey Shale
+172.667,2,16.9112,2.32135,17.2524,57.6192,9.91471,202.379,Sandy Shale,Raniganj,ss
+173.237,2,16.6328,2.38097,16.7491,71.3077,9.85518,166.424,Fine grained sandstone with shale lamination,Raniganj,Sandstone (SST)
+173.987,2,16.4573,2.33815,19.9975,57.9151,9.36839,203.07,Grey Shale,Raniganj,Grey Shale
+174.617,2,16.437,2.34693,21.8744,51.9885,9.61119,248.013,Fine grained sandstone with shale bands,Raniganj,Sandstone (SST)
+174.987,2,16.4304,2.3976,21.2345,66.265,10.3801,174.03,Sandy Shale,Raniganj,ss
+175.257,2,16.4223,2.35526,18.6721,60.9276,9.59096,209.293,Carbonaceous Shale,Raniganj,Carb shale
+175.297,2,16.4201,2.34757,18.6254,60.8688,9.59096,216.207,Sandy Shale,Raniganj,ss
+175.827,2,16.3955,2.29654,19.7236,51.7587,10.1346,225.196,Sandy shale,Raniganj,ss
+176.517,2,16.3822,2.35193,16.8878,58.7191,9.18628,233.493,Shaly Sandstone laminae,Raniganj,Sandstone (SST)
+177.037,2,16.366,2.08352,11.3948,55.3014,10.8617,189.242,Coal,Raniganj,coal
+178.297,2,16.1449,2.27955,32.9921,60.9254,10.3599,171.956,Shaly Sandstone with shale lamination,Raniganj,Sandstone (SST)
+178.397,2,16.1387,2.28287,34.5049,61.565,10.3599,171.264,Dark gray Shale,Raniganj,dgs
+179.207,2,16.0162,1.92583,16.2011,64.9885,9.61119,188.55,Shaly Coal with vitrain band,Raniganj,coal
+179.347,2,15.9827,1.70739,15.1016,72.6985,10.3178,138.767,Coal,Raniganj,coal
+180.277,2,18.9972,1.43504,8.42029,106.245,11.5534,86.2178,Fine grained Sandstone,Raniganj,Sandstone (SST)
+181.047,2,16.0765,2.19144,18.9914,56.6908,9.7326,185.093,Shaly Sandstone,Raniganj,Sandstone (SST)
+181.297,2,16.1107,2.35811,21.3711,52.455,9.77307,219.665,Fine grained Sandstone,Raniganj,Sandstone (SST)
+182.007,2,16.167,2.34679,24.5744,47.2908,10.3599,250.779,Shaly Sandstone,Raniganj,Sandstone (SST)
+185.797,2,16.1494,2.36765,21.2334,65.5099,10.5584,99.355,Fine grained Sandstone with streaks of Shale,Raniganj,Sandstone (SST)
+190.297,2,21.3918,2.26815,25.3982,57.4452,10.7645,175.413,Fine grained to medium grained Sandstone,Raniganj,Sandstone (SST)
+194.797,2,17.0304,2.32456,27.9148,64.4692,7.52708,120.789,Fine grained to medium grained Sandstone,Raniganj,Sandstone (SST)
+199.297,2,16.1707,2.3056,25.627,59.1865,8.9637,121.481,Shale with coal streaks,Raniganj,Shale
+203.797,2,18.8263,2.33443,27.0914,62.029,8.74113,162.276,Shale with coal streaks,Raniganj,Shale
+204.057,2,18.8299,2.29185,27.4116,64.6401,10.3396,151.904,Shale with coal streaks,Raniganj,Shale
+205.177,2,18.6319,2.25883,17.7131,66.7283,9.48979,100.046,Gray shale with coal streaks,Raniganj,Shale
+207.447,2,17.5841,2.41604,18.0304,55.4143,7.79013,200.304,Sandy shale with sand patches,Raniganj,Shale
+208.557,2,17.0878,2.3823,17.527,49.3796,7.34461,232.11,Shaly sandstone with shale laminations,Raniganj,alt
+211.347,2,15.29,2.3974,22.0579,57.5032,7.24381,156.053,Fine grained to medium grained Sandstone,Raniganj,Sandstone (SST)
+211.977,2,14.8707,2.45925,21.7373,73.2861,6.1107,105.578,Fine grained to medium grained Sandstone,Raniganj,Sandstone (SST)
+212.997,2,14.7603,2.37223,21.5999,60.0548,7.48661,134.618,Shaly sandstone,Raniganj,Sandstone (SST)
+213.487,2,14.6914,2.35367,20.1355,59.8262,6.57608,167.807,Shaly sandstone,Raniganj,Sandstone (SST)
+213.777,2,14.6636,2.3691,18.9457,61.1008,6.27257,175.413,Dark gray Shale,Raniganj,dgs
+214.057,2,14.6538,2.354,18.7626,57.6771,5.96906,230.728,Shaly Sandstone,Raniganj,Sandstone (SST)
+214.657,2,14.6569,2.34983,21.3712,54.6609,6.55585,233.493,Medium grained sandstone,Raniganj,Sandstone (SST)
+215.097,2,14.6609,2.32318,16.383,48.6274,7.24381,249.396,Gray shale,Raniganj,Grey Shale
+216.197,2,14.6954,2.37793,9.56519,69.1083,7.1034,140.15,Coal,Raniganj,coal
+217.197,2,14.7855,1.38693,15.9253,148.603,8.33645,83.452,Coal,Raniganj,coal
+217.517,2,14.8323,1.44584,35.0998,152.142,8.53879,90.3664,Coal,Raniganj,coal
+219.777,2,15.6792,2.35324,36.9296,56.4587,7.97223,196.156,Shaly sandstone,Raniganj,Sandstone (SST)
+220.497,2,15.8768,2.43258,32.4456,62.2613,7.68896,174.721,Fine grained sandstone with Shale lamination,Raniganj,Sandstone (SST)
+221.507,2,16.0177,2.39301,31.9879,64.2952,9.06487,181.636,Fine grained sandstone with shale streaks,Raniganj,Sandstone (SST)
+221.877,2,16.0239,2.34326,37.1133,61.5635,10.5217,393.906,"Dark gray shale,broken and fractured with coal streaks",Raniganj,dgs
+223.247,2,16.0022,2.16711,22.3319,66.2615,8.68043,209.985,Shaly Sandstone,Raniganj,Sandstone (SST)
+224.297,2,15.9823,2.35676,22.929,60.2304,8.49832,215.516,"Shaly Coal, pyrite content, vitrain band",Raniganj,coal
+225.297,2,15.9798,1.44804,11.1203,132.298,10.0766,77.9205,"Gray to dark gray shale,lamination of coal",Raniganj,dgs
+225.447,2,15.9926,1.44607,13.4978,132.878,10.0766,85.5263,Sandy Shale,Raniganj,ss
+225.947,2,16.064,1.58037,11.8067,94.5234,10.0766,155.361,Sandy Shale (Sample collected by CIMFR),Raniganj,ss
+227.847,2,16.5084,2.32659,18.9923,47.1747,9.53026,209.985,Sandy Shale,Raniganj,ss
+228.007,2,16.4985,2.34836,18.1223,47.8129,9.53026,185.093,Sandy Shale,Raniganj,ss
+228.957,2,16.61,2.34462,16.703,48.2771,9.24784,190.624,Shaly Sandstone,Raniganj,Sandstone (SST)
+229.447,2,16.862,2.37552,16.9321,45.3184,9.00417,209.985,Fine grained sandstone with shale lamination,Raniganj,Sandstone (SST)
+233.947,2,19.5802,2.3522,20.1355,55.8792,8.61972,93.1321,Fine grained sandstone with shale lamination,Raniganj,Sandstone (SST)
+238.447,2,19.2788,2.29874,21.005,59.7081,8.39715,139.458,"Fine to medium grained sandstone with shale lamination,coal streaks,feldspathic",Raniganj,Sandstone (SST)
+242.947,2,20.1602,2.30584,20.6389,61.1588,7.26404,111.801,medium grained sandstone with shale lamination,Raniganj,Sandstone (SST)
+244.447,2,19.3878,2.31671,22.927,56.6328,6.94029,130.47,medium grained sandstone with shale lamination,Raniganj,Sandstone (SST)
+245.947,2,19.039,2.28684,25.2151,55.937,7.32474,105.578,"Medium grained sandstone, rounded and pebbly in nature",Raniganj,Sandstone (SST)
+248.597,2,18.7334,2.26924,27.2287,70.3268,8.92323,87.6006,"Medium grained sandstone with shale streaks,micaceous",Raniganj,Sandstone (SST)
+252.597,2,15.9658,2.38185,26.3599,77.4639,3.96588,84.1434,Fine to medium grained sandstone with lower part clayey,Raniganj,Sandstone (SST)
+255.197,2,17.7294,2.2884,33.2675,64.4082,9.32792,107.652,"Fine grained sandstone with shale laminae at top, whitish",Raniganj,Sandstone (SST)
+255.597,2,18.1537,2.26968,36.3351,63.8281,8.49832,110.418,Carbonaceous Shale ,Raniganj,Carb shale
+256.197,2,18.7469,2.28098,36.6557,63.0736,8.53879,129.087,"Fine grained sandstone, whitish",Raniganj,Sandstone (SST)
+256.477,2,19.0028,2.25598,31.303,65.6841,8.70066,105.578,"Fine grained sandstone, , sludge",Raniganj,Sandstone (SST)
+256.847,2,19.2396,2.23571,29.3795,74.1565,7.54732,93.1321,"Fine grained sandstone, ",Raniganj,Sandstone (SST)
+257.097,2,19.3417,2.0801,29.7453,70.6177,8.72089,95.2064,Sandy sludge,Raniganj,Sandstone (SST)
+257.657,2,19.6952,2.25332,32.9947,69.6312,9.36839,120.789,Fine grained sandstone,Raniganj,Sandstone (SST)
+257.747,2,19.7426,2.28381,34.6871,69.1084,9.36839,131.852,Sandy sludge,Raniganj,Sandstone (SST)
+258.197,2,19.9023,2.27772,39.4472,68.4695,9.26721,97.9722,Fine grained sandstone,Raniganj,Sandstone (SST)
+261.197,2,18.2284,2.31168,33.0862,68.2959,8.31621,95.8978,Fine grained sandstone,Raniganj,Sandstone (SST)
+263.297,2,16.4705,2.40493,30.2483,68.6441,3.01488,160.201,Fine grained sandstone,Raniganj,Sandstone (SST)
+266.097,2,16.8377,2.32354,26.1764,71.024,7.66872,127.012,Fine grained sandstone with shale laminae,Raniganj,Sandstone (SST)
+266.597,2,17.2177,2.30474,26.4048,65.5126,7.00044,124.247,"Fine grained sandstone, rounded, clayey at bottom",Raniganj,Sandstone (SST)
+267.597,2,17.9913,2.32411,26.0846,57.1538,6.59631,148.447,"Fine grained sandstone, rounded",Raniganj,Sandstone (SST)
+270.997,2,17.3648,2.33953,25.5354,63.1316,6.45468,142.915,"Fine grained sandstone with shale streaks, micaceous",Raniganj,Sandstone (SST)
+272.697,2,16.0232,2.33223,30.1117,68.6419,5.13946,165.733,Fine grained sandstone,Raniganj,Sandstone (SST)
+275.997,2,14.8482,2.29683,40.1796,93.0123,10.5622,85.5263,Fine grained sandstone,Raniganj,Sandstone (SST)
+278.997,2,17.1449,2.29944,49.8354,90.4036,12.9094,88.9835,"Medium grained sandstone,feldspathic,fine grained sandstone at the bottom",Raniganj,Sandstone (SST)
+279.687,2,15.6744,2.21322,49.8811,85.7653,13.2129,97.2807,Medium grained sandstone,Raniganj,Sandstone (SST)
+281.997,2,15.6141,2.27097,42.4663,67.7157,17.4216,117.332,Fine grained sandstone with coal streaks,Raniganj,Sandstone (SST)
+284.997,2,12.097,2.38136,29.5171,76.1293,11.9179,106.961,Fine grained sandstone with shale laminae,Raniganj,Sandstone (SST)
+285.727,2,12.9066,2.38276,24.4381,69.8088,12.8486,168.498,Fine grained sandstone with clay,Raniganj,Sandstone (SST)
+286.637,2,12.4044,2.3569,21.005,52.2284,5.52391,251.471,Fine grained sandstone,Raniganj,Sandstone (SST)
+287.397,2,12.8576,2.35038,20.0897,50.8886,4.77525,237.642,Sandy shale,Raniganj,ss
+287.997,2,12.8377,2.33325,17.7101,52.9171,6.94029,259.768,Sandy Shale (Sample collected by CIMFR),Raniganj,ss
+288.587,2,12.8642,2.39136,16.6576,59.5921,27.7034,202.379,Sandy shale,Raniganj,ss
+289.967,2,12.413,2.37132,17.2067,56.2838,36.7147,220.356,Alterenate Shale and Sandstone,Raniganj,alt
+291.397,2,12.4837,2.36367,17.8933,54.4859,34.1916,218.282,Sandy shale,Raniganj,ss
+292.097,2,12.4894,2.37472,18.8541,55.2398,36.7147,245.939,Sandy shale,Raniganj,ss
+292.367,2,12.4541,2.38919,18.3964,57.3291,36.7147,200.304,Sandy shale,Raniganj,ss
+292.827,2,12.3128,2.37717,18.3507,54.4278,34.1916,233.493,Alterenate Shale and Sandstone,Raniganj,alt
+293.327,2,12.2354,2.39755,18.7622,63.6539,32.7464,211.367,Alterenate Shale and Sandstone (Sample collected by CIMFR),Raniganj,alt
+293.927,2,12.14,2.35592,20.0434,61.9711,41.7611,245.248,Alterenate Shale and Sandstone,Raniganj,alt
+294.397,2,12.128,2.32129,21.2336,60.7526,51.8461,241.791,Sandy shale,Raniganj,ss
+295.847,2,12.0827,2.31228,18.8999,60.4616,45.3656,251.471,Sandy shale,Raniganj,ss
+296.997,2,12.3939,1.33943,45.854,231.514,45.3656,73.0805,Grey shale,Raniganj,Grey Shale
+297.147,2,12.2288,1.34,120.379,243.185,47.8888,53.0289,Grey shale,Raniganj,Grey Shale
+298.397,2,12.1896,1.37702,338.825,252.924,55.8187,57.1775,Coal,Raniganj,coal
+299.187,2,12.0602,1.39841,301.941,229.67,42.8468,63.4004,Coal,Raniganj,coal
+299.747,2,11.9586,1.42925,282.309,175.076,53.2868,75.1548,Coal (Sample collected by CIMFR),Raniganj,coal
+300.997,2,12.0292,1.3428,276.912,199.259,55.8187,43.3488,Coal,Raniganj,coal
+302.397,2,11.7423,1.35017,132.274,212.083,74.5623,48.8803,Coal ,Raniganj,coal
+303.807,2,11.3724,2.06448,47.1811,80.1343,107.724,290.191,Coal ,Raniganj,coal
+303.997,2,10.4883,2.15487,42.3801,75.7232,111.685,335.826,Shaly coal,Raniganj,coal
+304.197,2,10.4926,2.24656,37.571,74.445,114.212,307.477,Carb. Shale,Raniganj,Carb shale
+305.997,2,10.2558,2.30786,37.4779,108.682,135.548,141.533,Sandy shale with occasional streaks of coal,Raniganj,ss
+306.997,2,10.4921,2.30973,37.6169,63.1283,127.333,250.779,Medium grained Sandstone,Raniganj,Sandstone (SST)
+309.097,2,10.2973,2.39202,40.4082,81.1189,131.845,157.436,Sandy Shale,Raniganj,ss
+309.997,2,10.4945,2.25112,51.4354,91.332,141.173,127.704,Intercalation sand>shale,Raniganj,Sandstone (SST)
+312.997,2,10.2706,2.07057,53.8624,90.5196,135.287,145.681,Fine grained sandstone,Raniganj,Sandstone (SST)
+315.997,2,10.1861,2.29403,56.3785,131.537,140.93,98.6636,Fine grained sandstone with shale laminae,Raniganj,Sandstone (SST)
+316.647,2,10.2544,2.36895,55.1895,164.502,142.59,95.8978,Fine grained sandstone ,Raniganj,Sandstone (SST)
+319.247,2,10.0497,2.33497,37.0676,82.7022,125.026,219.665,Medium grained Sandstone,Raniganj,Sandstone (SST)
+319.947,2,9.98996,2.29416,29.8832,81.9276,125.209,193.39,Fine grained sandstone with shale laminae,Raniganj,Sandstone (SST)
+320.197,2,9.98448,2.29887,29.4709,84.0243,124.804,200.996,Shale (Sandy),Raniganj,ss
+320.597,2,9.96311,2.36783,28.327,75.552,124.682,200.996,Shale (Sandy),Raniganj,ss
+322.197,2,9.8831,2.45842,24.7117,104.562,127.07,153.287,Intercalation sand<shale,Raniganj,ss
+323.897,2,9.95708,2.39813,26.9542,72.5318,125.087,221.047,Intercalation sand>shale,Raniganj,Sandstone (SST)
+324.697,2,9.9527,2.37414,25.9015,67.9478,124.278,221.047,Sandy shale,Raniganj,ss
+327.297,2,9.99216,2.37725,25.5322,62.0838,123.893,243.173,Intercalation sand<shale,Raniganj,ss
+328.097,2,9.98119,2.38109,17.801,65.2206,124.419,228.653,Sandy shale,Raniganj,ss
+329.097,2,9.99106,2.38551,18.2586,62.8416,124.176,250.779,Intercalation sand<shale,Raniganj,ss
+329.397,2,9.99818,2.32599,20.2728,62.2613,124.156,263.916,Fine grained sandstone,Raniganj,Sandstone (SST)
+331.097,2,10.0102,2.39586,19.7694,57.2131,123.084,272.905,Intercalation sand<shale,Raniganj,ss
+332.547,2,9.98722,2.40392,15.9253,62.2613,123.853,183.71,Intercalation sand<shale,Raniganj,ss
+335.097,2,9.90009,2.36664,14.9648,48.4509,124.521,236.95,Sandy shale,Raniganj,ss
+337.097,2,9.69075,2.39663,13.4542,55.2402,124.723,292.265,Dark grey Shale,Barren Measures,dgs
+337.747,2,9.62006,2.37634,12.947,52.1666,124.359,280.511,Dark grey Shale,Barren Measures,dgs
+341.597,2,9.51101,2.34498,13.546,58.3154,124.642,206.527,Dark grey Shale,Barren Measures,dgs
+345.297,2,9.40963,2.2764,12.2186,51.8747,124.906,263.916,Dark grey Shale,Barren Measures,dgs
+345.797,2,9.44799,2.3148,12.5389,51.3525,124.763,236.95,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+350.297,2,9.49621,2.31438,11.4406,50.8301,124.844,263.225,Dark grey Shale,Barren Measures,dgs
+354.797,2,9.41127,2.35077,12.8135,57.8508,124.602,247.322,Dark grey Shale,Barren Measures,dgs
+359.297,2,9.42881,2.31086,13.2265,49.8438,125.107,267.374,Dark grey Shale,Barren Measures,dgs
+363.797,2,9.40141,2.33015,11.395,51.9964,124.055,231.419,Dark grey Shale,Barren Measures,dgs
+368.297,2,9.30606,2.38946,11.166,52.2816,123.529,259.768,Dark grey Shale,Barren Measures,dgs
+369.347,2,9.38716,2.34934,12.2641,51.1204,123.731,297.105,Dark grey Shale,Barren Measures,dgs
+369.847,2,9.37675,2.3779,12.4016,47.4066,124.096,283.968,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+372.697,2,9.42552,2.40832,11.8981,50.3661,124.237,332.368,Dark grey Shale,Barren Measures,dgs
+376.297,2,9.42881,2.3807,9.7474,46.5983,123.671,244.556,Dark grey Shale,Barren Measures,dgs
+380.797,2,9.45018,2.24237,8.19232,38.5869,125.37,247.322,Dark grey Shale,Barren Measures,dgs
+383.297,2,9.42881,1.99374,9.33624,42.5907,127.657,231.419,Dark grey Shale,Barren Measures,dgs
+385.3,2,9.43812,2.31595,8.42029,44.2154,125.128,270.831,Dark grey Shale,Barren Measures,dgs
+385.98,2,9.29784,2.32011,8.51181,45.0857,124.946,264.608,Dark grey Shale,Barren Measures,dgs
+386.49,2,9.32414,2.39782,8.74063,47.9272,123.206,230.036,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+388.3,2,8.472,2.32683,8.10009,43.3439,122.578,278.437,Dark grey Shale,Barren Measures,dgs
+390.6,2,8.55146,2.3209,7.59656,42.4744,120.939,277.054,Dark grey shale,Barren Measures,dgs
+391.1,2,8.57502,2.26035,7.5508,41.6039,120.939,284.659,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+394.8,2,8.42596,2.35745,8.19148,43.285,120.777,283.277,Dark grey shale,Barren Measures,dgs
+397.6,2,8.21005,2.43641,8.46605,43.2292,120.899,310.934,Dark grey shale,Barren Measures,dgs
+398.3,2,8.21663,2.32177,8.19148,45.7235,120.858,234.185,Dark grey shale,Barren Measures,dgs
+402.8,2,8.2369,2.35673,7.5967,43.1709,120.312,250.088,Dark grey shale,Barren Measures,dgs
+403.3,2,8.23471,2.32671,7.64233,41.5469,120.049,250.088,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+404.3,2,8.23636,2.36776,7.50462,41.14,120.271,303.328,Dark grey shale,Barren Measures,dgs
+408.8,2,8.56132,2.27554,7.5508,43.9231,119.887,295.722,Dark grey shale,Barren Measures,dgs
+410.63,2,8.10648,2.01135,8.23724,44.2748,119.563,290.882,Dark grey shale,Barren Measures,dgs
+411.14,2,8.83149,2.19773,8.32862,47.9831,120.514,313.7,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+412.6,2,8.05442,2.26784,9.5188,46.9413,118.956,276.362,Dark grey shale,Barren Measures,dgs
+417.1,2,8.21553,2.22923,9.24408,50.8883,118.855,223.813,Dark grey shale,Barren Measures,dgs
+420.9,2,7.78151,2.32242,8.73979,51.0042,119.056,213.442,Dark grey shale,Barren Measures,dgs
+423.05,2,7.74644,2.2995,7.09318,45.6082,118.956,306.094,Dark grey shale,Barren Measures,dgs
+423.6,2,7.72726,2.52588,7.59656,80.8217,118.509,250.088,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+427.1,2,7.70863,2.35509,8.37453,60.6908,118.208,326.146,Dark grey shale,Barren Measures,dgs
+431.6,2,7.72452,2.33445,12.0355,51.2933,118.086,327.528,Dark grey shale,Barren Measures,dgs
+436.1,2,7.72562,2.35242,11.7151,59.7053,117.58,261.842,Dark grey shale,Barren Measures,dgs
+436.62,2,7.75028,2.4029,12.0814,58.8397,116.467,309.551,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+439.2,2,7.76617,2.33877,11.669,50.4241,115.941,375.237,Dark grey shale,Barren Measures,dgs
+442.1,2,7.76781,2.32644,9.79316,47.1746,115.253,277.745,Dark grey shale,Barren Measures,dgs
+446.6,2,7.76233,2.34186,8.92368,43.6931,114.141,216.899,Dark grey shale,Barren Measures,dgs
+448.15,2,7.77384,2.26779,8.87791,44.4475,113.655,251.471,Dark grey shale,Barren Measures,dgs
+448.65,2,7.76727,2.23508,8.96951,43.8091,113.917,266.682,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+451.1,2,7.74863,2.33585,9.6558,43.5191,112.603,299.18,Dark grey shale,Barren Measures,dgs
+455.1,2,7.72397,2.25224,8.83215,47.4648,112.198,260.459,Dark grey shale,Barren Measures,dgs
+458.2,2,7.63026,2.34196,8.42043,51.2945,111.591,239.716,Dark grey shale,Barren Measures,dgs
+462.7,2,7.70096,2.34059,7.96266,41.3716,110.883,288.808,Dark grey shale,Barren Measures,dgs
+463.25,2,7.69164,2.32895,7.9169,39.5153,111.024,294.34,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+467.2,2,7.64506,2.29764,8.23724,36.0338,110.66,301.945,Dark grey shale,Barren Measures,dgs
+471.7,2,7.71411,2.36009,8.19148,37.9486,110.863,290.882,Dark grey shale,Barren Measures,dgs
+476.2,2,7.71904,2.41372,7.68795,41.6042,111.126,278.437,Dark grey shale,Barren Measures,dgs
+478.7,2,7.71247,2.41248,7.87156,40.0952,111.308,233.493,Dark grey shale,Barren Measures,dgs
+479.2,2,7.71192,2.37093,8.19148,37.0225,111.874,234.185,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+482.3,2,7.74644,2.324,8.42043,44.7931,112.077,286.042,Dark grey shale,Barren Measures,dgs
+482.8,2,7.74754,2.34918,8.23724,43.9252,111.975,273.596,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+484.8,2,7.73493,2.32121,8.28314,34.2944,112.684,286.042,Dark grey shale,Barren Measures,dgs
+489.3,2,7.70096,2.36966,7.45928,36.6721,112.582,241.099,Dark grey shale,Barren Measures,dgs
+493.08,2,7.71849,2.32344,7.32227,37.6562,111.874,277.054,Dark grey shale,Barren Measures,dgs
+493.08,2,7.71849,2.32344,7.32227,37.6562,111.874,277.054,Dark grey shale,Barren Measures,dgs
+493.08,2,7.71849,2.32344,7.32227,37.6562,111.874,277.054,Dark grey shale,Barren Measures,dgs
+493.63,2,7.72069,2.31762,6.95589,36.0363,112.178,283.277,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+493.8,2,7.72343,2.30004,6.95589,34.8731,112.279,288.117,Dark grey shale,Barren Measures,dgs
+504.05,2,7.89933,2.28604,8.87791,32.7263,111.712,320.614,Dark grey shale,Barren Measures,dgs
+504.67,2,7.90975,2.30813,8.87791,28.491,112.34,252.162,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+505.6,2,7.89166,2.29642,8.55758,32.9015,111.267,274.288,Dark grey shale,Barren Measures,dgs
+509.6,2,7.74973,2.34549,9.0152,34.0029,110.863,316.465,Dark grey shale,Barren Measures,dgs
+511.1,2,7.68178,2.34883,8.83215,32.9579,110.883,281.894,Dark grey shale,Barren Measures,dgs
+513.6,2,7.80234,2.34071,9.56407,32.9013,110.357,236.259,Dark grey shale,Barren Measures,dgs
+516.91,2,8.04565,2.30856,8.78639,28.8386,110.114,234.876,Dark grey shale,Barren Measures,dgs
+517.41,2,7.74644,2.26321,9.10673,30.9291,110.154,308.86,Dark grey Shale (Sample Collected by CIMFR),Barren Measures,dgs
+517.5,2,7.73493,2.29496,8.96944,30.1745,109.832,297.797,Dark grey shale,Barren Measures,dgs
+521.5,2,7.6889,2.37901,9.65587,36.2659,109.568,307.477,Dark grey shale,Barren Measures,dgs
+524.5,2,7.68781,2.39756,9.79316,39.1091,109.75,306.094,Dark grey shale,Barren Measures,dgs
+526,2,7.70753,2.35606,10.1135,38.1791,109.628,290.882,Dark grey shale,Barren Measures,dgs
+530.5,2,7.65164,2.40115,10.7999,37.5462,109.446,233.493,Dark grey shale,Barren Measures,dgs
+534.3,2,7.68178,2.34892,10.7536,41.5462,110.337,240.408,Dark grey shale,Barren Measures,dgs
+537.74,2,7.61415,2.46519,10.1136,44.5055,110.114,253.545,Dark grey shale,Barren Measures,dgs
+538.24,2,7.61344,2.35333,10.2508,38.1227,110.214,295.031,Dark grey shale,Barren Measures,dgs
+538.55,2,7.61415,2.35234,10.3879,37.4253,110.438,267.374,Dark grey shale,Barren Measures,dgs
+539.55,2,7.60849,2.32364,9.33568,38.9934,110.276,246.631,Dark grey shale,Barren Measures,dgs
+544.05,2,7.6204,2.37409,11.1203,45.1484,110.6,260.459,Dark grey shale,Barren Measures,dgs
+548.55,2,7.60778,2.39647,11.8526,44.5635,111.51,247.322,Dark grey shale,Barren Measures,dgs
+551.85,2,7.61203,2.37094,12.2643,45.321,112.684,255.619,Dark grey shale,Barren Measures,dgs
+552.8,2,7.59859,2.39021,11.0745,49.7858,112.34,273.596,Dark grey shale,Barren Measures,dgs
+553.3,2,7.59859,2.44772,10.6626,45.724,113.028,259.076,Dark grey shale,Barren Measures,dgs
+553.35,2,7.59859,2.3955,10.5713,45.6655,113.028,286.042,Dark grey shale,Barren Measures,dgs
+556.85,2,7.60708,2.25814,10.7999,44.5626,113.533,265.991,Dark grey shale,Barren Measures,dgs
+560.27,2,7.64451,2.35545,11.2117,42.8283,113.756,245.939,Dark grey shale,Barren Measures,dgs
+560.8,2,7.64232,2.48395,11.5779,54.2702,113.473,169.19,Dark grey shale,Barren Measures,dgs
+561.05,2,7.64287,2.459,11.6696,57.7353,113.513,254.928,Dark grey shale,Barren Measures,dgs
+565.55,2,7.64232,2.39612,11.1207,52.3389,113.716,256.311,Dark grey shale,Barren Measures,dgs
+566.05,2,7.64342,2.31283,11.2574,45.8981,114.363,255.619,Dark grey shale,Barren Measures,dgs
+570.05,2,7.66369,2.32373,10.5255,44.2154,114.505,291.574,Dark grey shale,Barren Measures,dgs
+574.55,2,7.66424,2.29938,10.9372,42.0104,114.97,264.608,Dark grey shale,Barren Measures,dgs
+574.73,2,7.66315,2.31353,11.0287,44.3871,114.727,220.356,Dark grey shale,Barren Measures,dgs
+575.23,2,7.66534,2.35895,10.7084,40.5612,115.031,225.888,Dark grey shale,Barren Measures,dgs
+576.05,2,7.63958,2.38967,10.0216,48.045,115.618,260.459,Dark grey shale,Barren Measures,dgs
+580.55,2,7.63684,2.36899,10.6626,42.4166,115.456,280.511,Dark grey shale,Barren Measures,dgs
+581.05,2,7.64013,2.43758,10.7998,45.608,115.092,202.379,Dark grey shale,Barren Measures,dgs
+585.05,2,7.66534,2.37941,11.3948,54.4264,115.132,275.671,Dark grey shale,Barren Measures,dgs
+589.55,2,7.66753,2.30861,12.2186,47.929,115.941,308.168,Dark grey shale,Barren Measures,dgs
+589.69,2,7.66808,2.30961,12.2187,47.639,115.699,274.979,Dark grey shale,Barren Measures,dgs
+590.22,2,7.66588,2.33281,12.3101,48.6265,115.456,284.659,Dark grey shale,Barren Measures,dgs
+594.05,2,7.66205,2.29388,13.7741,52.1648,115.011,288.117,Dark grey shale,Barren Measures,dgs
+598.55,2,7.67082,2.25497,14.4608,55.4143,114.626,308.86,Dark grey shale,Barren Measures,dgs
+598.64,2,7.67137,2.25077,14.5525,55.7624,114.687,301.254,Dark grey shale,Barren Measures,dgs
+599.14,2,7.67082,2.24435,14.7355,58.4896,114.262,301.945,Dark grey shale,Barren Measures,dgs
+603.05,2,7.67411,2.31602,14.964,54.5451,114.141,255.619,Dark grey shale,Barren Measures,dgs
+607.55,2,7.68342,2.31869,12.8139,49.2646,113.898,259.768,Dark grey shale,Barren Measures,dgs
+611.35,2,7.68342,2.29293,11.715,49.5544,113.695,247.322,Dark grey shale,Barren Measures,dgs
+611.88,2,7.69,2.293,11.7612,49.8438,113.756,248.013,Dark grey shale,Barren Measures,dgs
+612.05,2,7.69274,2.28926,11.8526,49.0895,113.756,239.716,Dark grey shale,Barren Measures,dgs
+616.55,2,7.68945,2.36508,11.807,49.09,113.816,265.991,Dark grey shale,Barren Measures,dgs
+620.45,2,7.68287,2.30088,12.5388,43.6935,113.635,200.996,Dark grey shale,Barren Measures,dgs
+620.95,2,7.68342,2.34795,13.2711,44.9117,113.432,219.665,Dark grey shale,Barren Measures,dgs
+621,2,7.68233,2.3408,13.2711,45.5499,113.432,225.196,Dark grey shale,Barren Measures,dgs
+625.3,2,7.68233,2.31617,16.2914,54.1377,112.805,250.088,Dark grey shale,Barren Measures,dgs
+629,2,7.70151,2.35319,14.827,58.3162,112.947,216.899,Dark grey shale,Barren Measures,dgs
+629.5,2,7.69712,2.29428,15.8338,60.6366,113.007,222.43,Dark grey shale,Barren Measures,dgs
+629.8,2,7.69274,2.33167,15.651,59.9983,113.068,255.619,Dark grey shale,Barren Measures,dgs
+630.8,2,7.67739,2.30934,15.6508,58.8378,113.068,207.219,Dark grey shale,Barren Measures,dgs
+633,2,7.66808,2.29359,15.2849,53.907,113.088,211.367,Dark grey shale,Barren Measures,dgs
+637.5,2,7.67027,2.36791,11.3491,45.4343,113.27,232.11,Dark grey shale,Barren Measures,dgs
+638,2,7.67082,2.36734,11.3033,42.8808,113.21,230.036,Dark grey shale,Barren Measures,dgs
+642,2,7.65438,2.45214,9.93045,41.4878,113.25,178.179,Dark grey shale,Barren Measures,dgs
+642.5,2,7.65218,2.36101,10.3884,46.5944,113.088,237.642,Dark grey shale,Barren Measures,dgs
+646,2,7.66315,2.33503,12.1729,46.8828,113.27,255.619,Dark grey shale,Barren Measures,dgs
+650.5,2,7.64671,2.33954,12.3101,46.769,113.291,227.962,Dark grey shale,Barren Measures,dgs
+654.27,2,7.64177,2.37853,11.0745,44.5055,113.108,259.768,"Dark grey shale, dotted sand particles",Barren Measures,dgs
+654.77,2,7.64177,2.53876,11.4406,43.5765,113.068,186.476,Dark grey shale,Barren Measures,dgs
+655,2,7.64342,2.43908,11.4864,41.4882,113.291,225.196,"Dark grey shale, dotted sand particles",Barren Measures,dgs
+657,2,7.65218,2.37233,11.166,41.6039,113.25,264.608,"Dark grey shale, dotted sand particles",Barren Measures,dgs
+661.5,2,7.64122,2.44381,9.61025,38.9343,113.938,218.973,"Dark grey shale, dotted bands of sand particles",Barren Measures,dgs
+666,2,7.64725,2.41988,10.022,40.0945,112.886,225.887,"Dark grey shale, dotted sand particles",Barren Measures,dgs
+670.5,2,7.64287,2.565,12.9965,49.4377,112.481,196.156,"Dark grey shale, dotted sand particles",Barren Measures,dgs
+675,2,7.6489,2.43963,13.0881,48.2809,112.704,238.333,Dark grey shale,Barren Measures,dgs
+679.5,2,7.62424,2.48707,12.7677,63.0612,112.421,194.082,Dark grey shale,Barren Measures,dgs
+684,2,7.6352,2.20514,12.6765,56.6885,112.926,263.916,Dark grey shale,Barren Measures,dgs
+687.55,2,7.64342,2.34075,15.7424,57.9094,113.23,253.545,Dark grey shale,Barren Measures,dgs
+688.05,2,7.64287,2.35775,15.8338,53.5552,113.37,274.288,Dark grey shale,Barren Measures,dgs
+688.5,2,7.64287,2.44518,17.3901,49.3761,113.412,234.185,Dark grey shale,Barren Measures,dgs
+693,2,7.63848,2.28911,20.0439,67.8933,113.635,260.459,Dark grey shale,Barren Measures,dgs
+697.5,2,7.64287,2.38196,20.6845,72.0676,114.302,281.894,Dark grey shale,Barren Measures,dgs
+697.59,2,7.64451,2.40352,20.6389,71.1972,114.444,265.991,Dark grey shale,Barren Measures,dgs
+698.09,2,7.65109,2.32791,20.4557,56.6908,115.071,297.797,Dark grey shale,Barren Measures,dgs
+702,2,7.65931,2.378,19.9528,69.8019,114.727,283.277,Dark grey shale,Barren Measures,dgs
+706.5,2,7.64451,2.40926,24.3015,64.8724,115.395,248.705,Dark grey shale,Barren Measures,dgs
+711,2,7.68452,2.36262,20.4558,64.12,116.103,243.173,Dark grey shale,Barren Measures,dgs
+715.5,2,7.68178,2.27317,16.7491,57.3291,116.771,269.448,Dark grey shale,Barren Measures,dgs
+720,2,7.64232,2.38291,19.9074,65.1033,117.095,306.094,Dark grey shale,Barren Measures,dgs
+720.5,2,7.64287,2.64031,18.0762,119.063,116.569,171.956,Dark grey shale,Barren Measures,dgs
+724.5,2,7.72617,2.33438,19.7236,61.2168,116.832,277.054,Dark grey shale,Barren Measures,dgs
+726.96,2,7.65986,2.19459,17.3897,57.7963,117.277,283.277,Dark grey shale,Barakar,dgs
+729,2,7.62643,2.37781,25.0768,62.1971,117.236,276.362,Medium - Coarse grained Sandstone with occasional shale streaks,Barakar,Sandstone (SST)
+732,2,7.65218,2.31513,43.4286,103.982,115.436,175.413,Medium grained sandstone with shale lamination,Barakar,Sandstone (SST)
+735,2,7.62478,2.33965,40.5002,112.105,115.456,175.413,"Coarse grained Sandstone , with Shale bands",Barakar,Sandstone (SST)
+736,2,7.6615,2.27038,48.1417,93.7691,114.687,147.064,"Medium grained Sandstone, micaceous, shale laminae",Barakar,Sandstone (SST)
+738,2,7.65712,2.30326,44.801,96.6703,115.476,116.641,"Medium grained Sandstone, micaceous",Barakar,Sandstone (SST)
+742,2,7.54835,2.2472,57.5198,112.917,115.214,153.978,Medium grained sandstone with shale laminae and bands,Barakar,Sandstone (SST)
+746.5,2,7.55826,2.34166,43.1106,86.1608,118.552,145.681,"Medium grained Sandstone, micaceous",Barakar,Sandstone (SST)
+751,2,7.55472,2.39823,33.1292,112.685,117.257,143.607,Fine grained Sandstone  with Shale laminae,Barakar,Sandstone (SST)
+752.6,2,7.57028,2.25297,46.815,89.8805,116.164,106.269,Fine grained Sandstone,Barakar,Sandstone (SST)
+752.9,2,7.57382,2.26055,48.7825,90.8673,116.892,106.269,Sandy Shale,Barakar,ss
+755.1,2,7.55047,2.44418,24.0244,160.44,116.892,94.515,Fine grained Sandstone,Barakar,Sandstone (SST)
+755.5,2,7.57736,2.36761,26.0376,87.6299,118.106,137.384,Sandy Shale,Barakar,ss
+760,2,7.6626,2.1929,37.2049,64.2341,116.933,136.001,Medium grained sandstone with shale lamination,Barakar,Sandstone (SST)
+763.84,2,7.66588,2.17745,35.0535,67.3095,116.123,108.344,Medium grained Sandstone,Barakar,Sandstone (SST)
+764.5,2,7.66041,2.1628,39.4472,66.6125,115.921,93.8235,Sandy Shale,Barakar,ss
+765.15,2,7.60283,2.19886,37.756,68.703,115.436,113.184,Gray shale,Barakar,Grey Shale
+769,2,7.60071,2.1546,43.016,58.6057,116.447,156.053,Medium grained sandstone with shale streaks,Barakar,Sandstone (SST)
+769.42,2,7.59363,2.18531,43.9319,69.7455,116.832,128.395,Intercalation sand>shale,Barakar,Sandstone (SST)
+770.85,2,7.58797,2.32962,34.0011,91.4481,117.985,206.527,Sandy Shale,Barakar,ss
+771,2,7.58868,2.36474,35.1913,87.3918,118.289,181.636,Fine grained Sandstone,Barakar,Sandstone (SST)
+775.5,2,7.59434,2.34311,30.2047,88.0826,119.138,108.344,Medium grained sandstone with shale laminae at middle,Barakar,Sandstone (SST)
+776.5,2,7.56816,2.43718,32.3998,102.126,119.24,167.807,Fine grained sandstone with shale lamination and bands,Barakar,Sandstone (SST)
+777.16,2,7.5816,2.23551,51.3434,80.3609,118.794,107.652,Sandy Shale,Barakar,ss
+781,2,7.59222,2.24633,45.577,71.8355,118.976,105.578,"Medium grained Sandstone ,micaceous",Barakar,Sandstone (SST)
+785.5,2,7.57948,2.30313,47.1353,95.8007,117.783,192.007,Medium grained Sandstone with Shale bands,Barakar,Sandstone (SST)
+790,2,7.58514,2.33528,46.2206,107.75,117.52,169.19,Medium - Coarse grained Sandstone ,Barakar,Sandstone (SST)
+790.8,2,7.60637,2.35457,45.1205,93.8851,117.944,144.99,Medium grained Sandstone,Barakar,Sandstone (SST)
+792,2,7.69657,2.28165,48.0963,77.8701,117.823,180.944,Medium grained Sandstone,Barakar,Sandstone (SST)
+792.71,2,7.69877,2.3534,53.4043,72.1923,118.693,207.91,Alterenate Shale and Sandstone,Barakar,alt
+793.01,2,7.70205,2.26432,52.4445,63.3057,118.531,151.904,Fine grained Sandstone,Barakar,Sandstone (SST)
+793.45,2,7.68287,2.24894,53.2213,74.7907,118.592,128.395,Intercalation sand<shale,Barakar,ss
+794.11,2,7.56675,2.37781,49.9726,94.7555,118.167,171.956,Dark gray Shale,Barakar,dgs
+794.55,2,7.55755,2.38209,41.8287,90.6334,118.187,155.361,Coarse grained Sandstone,Barakar,Sandstone (SST)
+794.82,2,7.5526,2.38402,37.3893,98.4109,118.046,185.093,Dark gray Shale,Barakar,dgs
+796.5,2,7.54411,2.43405,35.9235,76.4234,119.057,213.442,"Medium grained Sandstone, micaceous, shale streaks",Barakar,Sandstone (SST)
+797.95,2,7.54977,2.32406,41.3226,97.1927,118.936,159.51,Medium - Coarse Sandstone with Shale lamination,Barakar,Sandstone (SST)
+798.49,2,7.54906,2.32812,53.9986,97.4823,118.936,150.521,Intercalation sand<shale,Barakar,ss
+800.02,2,7.54552,2.38543,41.1862,119.076,118.936,120.098,Dark gray Shale,Barakar,dgs
+800.3,2,7.55826,2.45089,34.0473,122.019,119.118,136.692,Shaly Sandstone,Barakar,Sandstone (SST)
+800.6,2,7.56038,2.4331,30.8457,117.095,119.138,132.544,Medium grained Sandstone,Barakar,Sandstone (SST)
+801,2,7.56604,2.36943,28.3734,91.6802,119.745,144.99,Dark gray Shale,Barakar,dgs
+804.25,2,7.52005,2.45107,28.7388,99.0494,119.907,180.944,Shaly Sandstone,Barakar,Sandstone (SST)
+805.09,2,7.56533,2.35194,30.7524,63.4724,120.555,279.128,Gray shale with sand band,Barakar,Grey Shale
+805.5,2,7.54057,2.32689,29.288,73.8159,120.514,212.059,Shaly Sandstone,Barakar,Sandstone (SST)
+805.89,2,7.52713,2.34119,28.4642,60.8671,120.494,281.894,Medium grained Sandstone,Barakar,Sandstone (SST)
+807.27,2,7.53703,2.34521,25.0784,61.565,120.454,296.414,Sandy Shale,Barakar,ss
+810,2,7.51227,2.28862,26.4033,90.8098,119.381,249.396,Medium grained Sandstone,Barakar,Sandstone (SST)
+812.4,2,7.55189,2.24623,51.4834,83.6726,118.005,238.333,Medium grained Sandstone,Barakar,Sandstone (SST)
+814.5,2,7.54694,2.3515,45.0311,93.3602,118.45,194.082,"Fine to medium grained Sandstone with streaks and laminae of shale, micaceous",Barakar,Sandstone (SST)
+815.27,2,7.54552,2.38454,43.4743,120.929,118.389,160.201,"Medium grained Sandstone, micaceous",Barakar,Sandstone (SST)
+817.2,2,7.55472,2.49963,38.8981,88.953,118.693,196.156,Grey Shale with Sandstone bands,Barakar,Grey Shale
+819,2,7.55472,2.31006,26.4965,72.1357,118.976,270.139,Medium grained Sandstone ,Barakar,Sandstone (SST)
+819.09,2,7.55472,2.29309,25.2609,68.0067,118.976,270.139,Medium grained Sandstone,Barakar,Sandstone (SST)
+819.97,2,7.54835,2.33506,34.4577,77.8701,119.3,220.356,Shaly Sandstone,Barakar,Sandstone (SST)
+820.87,2,7.55047,2.34403,51.1616,89.7653,119.624,129.087,Dark gray Shale,Barakar,dgs
+821.03,2,7.55047,2.41682,51.8941,85.2997,119.563,148.447,Shaly Coal,Barakar,coal
+821.53,2,7.55047,2.35144,43.6116,81.9305,119.826,136.001,Medium - Coarse grained Sandstone with coal streaks,Barakar,Sandstone (SST)
+823,2,7.5526,2.32536,28.6015,89.8845,118.794,224.505,Gray shale,Barakar,Grey Shale
+823.32,2,7.55118,2.24283,28.4631,83.3823,119.219,267.374,Sandy shale ,Barakar,ss
+823.47,2,7.5533,2.30242,29.8826,89.6493,119.26,243.865,Carbonaceous shale,Barakar,Carb shale
+825.19,2,7.5533,2.32289,33.4523,77.8121,119.948,225.196,"Medium - Coarse grained Sandstone , Gritty",Barakar,Sandstone (SST)
+825.78,2,7.56887,2.35492,29.2414,73.5762,119.826,238.333,Medium - Coarse grained Sandstone ,Barakar,Sandstone (SST)
+827,2,7.54906,2.36405,43.337,101.892,119.381,212.75,Fine grained Sandstone  with Shale laminae,Barakar,Sandstone (SST)
+827.27,2,7.54835,2.36636,51.8946,101.834,119.341,252.853,Fine grained Sandstone,Barakar,Sandstone (SST)
+829.83,2,7.58019,2.40766,38.5331,100.848,119.401,161.584,Gray shale,Barakar,Grey Shale
+830.6,2,7.58373,2.40876,32.6286,67.2555,119.563,231.419,Medium grained Sandstone,Barakar,Sandstone (SST)
+830.99,2,8.47857,2.25901,31.6676,65.1031,119.927,241.79,Sandy Shale,Barakar,ss
+831.5,2,7.48255,2.17516,23.0643,65.2742,119.725,284.659,Medium grained Sandstone,Barakar,Sandstone (SST)
+832.75,2,7.48468,2.44072,35.5574,93.4209,120.089,129.087,Fine grained Sandstone,Barakar,Sandstone (SST)
+834,2,7.48326,2.30557,51.9404,95.5719,119.624,122.172,Shaly Sandstone,Barakar,Sandstone (SST)
+835,2,7.48468,2.38684,45.2133,182.157,118.187,125.63,Sandy Shale,Barakar,ss
+836,2,7.4776,2.41616,42.3315,114.426,118.896,201.687,Dark gray Shale,Barakar,dgs
+836.7,2,7.48397,2.32128,37.8913,95.974,119.361,250.779,Dark gray Shale,Barakar,dgs
+837.2,2,7.496,2.31883,35.4659,91.332,119.462,262.534,Dark gray Shale,Barakar,dgs
+838.8,2,7.50519,2.30636,29.3337,84.9552,119.867,275.671,Dark gray Shale,Barakar,dgs
+840,2,7.49529,2.30004,28.1442,82.1615,119.725,299.18,Fine grained Sandstone,Barakar,Sandstone (SST)
+840.27,2,7.49246,2.28702,24.8962,79.0947,119.988,244.556,Fine grained Sandstone  with Shale band at top,Barakar,Sandstone (SST)
+840.56,2,7.49104,2.32065,25.6727,72.703,119.927,317.157,Dark gray Shale,Barakar,dgs
+841.57,2,7.48609,2.38737,44.7557,83.0365,119.544,149.138,Fine grained Sandstone  with Shale streaks,Barakar,Sandstone (SST)
+842.03,2,7.48397,2.2934,50.2929,89.4752,119.583,92.4407,Sandy Shale,Barakar,ss
+842.37,2,7.47831,2.34972,39.5852,92.7802,119.401,112.492,Dark gray Shale,Barakar,dgs
+843.37,2,7.48043,2.3494,44.5721,92.725,119.544,179.561,Fine to medium grained Sandstone,Barakar,Sandstone (SST)
+843.63,2,7.47972,2.36288,48.9641,100.326,119.583,174.03,Dark gray Shale,Barakar,dgs
+843.96,2,7.48043,2.44701,48.2794,102.124,119.078,157.436,Sandy Shale,Barakar,ss
+844.5,2,7.48185,2.47724,36.1066,90.2361,118.916,272.905,Medium - Coarse grained Sandstone ,Barakar,Sandstone (SST)
+845.82,2,7.48185,2.53857,35.5117,101.036,118.774,106.269,Alterenate Shale and Sandstone(pebbly),Barakar,alt
+846.02,2,7.48114,2.4728,39.8573,87.3857,118.815,182.327,Dark gray Shale,Barakar,dgs
+849,2,7.48963,2.31228,47.2236,97.6561,119.28,152.595,Fine to medium grained Sandstone,Barakar,Sandstone (SST)
+851.44,2,7.48397,2.36472,53.5397,103.575,118.369,226.579,Fine to medium grained Sandstone,Barakar,Sandstone (SST)
+851.6,2,7.4868,2.33194,56.0132,101.893,118.248,209.293,"Coal, pyritic",Barakar,coal
+853.5,2,7.47972,2.39499,52.7189,104.156,117.176,197.539,Granular sandstone,Barakar,Sandstone (SST)
+854.22,2,7.48538,2.17125,51.5273,151.33,116.548,147.064,Granular sandstone with coal bands,Barakar,Sandstone (SST)
+854.34,2,7.48538,2.08989,53.7236,132.588,116.548,122.864,Shaly coal ,Barakar,coal
+854.41,2,7.49034,2.08713,54.7776,133.051,117.034,97.9721,Coal,Barakar,coal
+855.96,2,7.48255,2.30252,79.8555,129.571,117.924,88.9835,Fine grained Sandstone with shale bands and laminae,Barakar,Sandstone (SST)
+856.19,2,7.48326,2.32962,60.5437,131.834,117.722,109.035,Sandy Shale,Barakar,ss
+858,2,7.4868,2.38679,53.8166,103.865,118.39,145.681,"Coarse grained Sandstone , with Shale laminae",Barakar,Sandstone (SST)
+859.32,2,7.48963,2.3718,59.6742,95.4277,118.066,158.127,Coarse to fine grained sandstone with shale ;aminae,Barakar,Sandstone (SST)
+859.89,2,7.48255,2.364,63.0606,102.357,117.722,205.836,Grey Shale,Barakar,Grey Shale
+860,2,7.48397,2.37815,63.3344,107.521,117.702,219.665,Coal,Barakar,coal
+860.32,2,7.48255,2.42228,65.303,115.994,117.439,185.784,"Coal, pyritic",Barakar,coal
+861.64,2,7.48821,2.44609,70.0165,101.195,117.864,174.03,Medium - Coarse grained Sandstone  with shale laminae and bands,Barakar,Sandstone (SST)
+861.76,2,7.48821,2.38286,62.6488,104.098,117.864,188.55,Carbonaceous shale,Barakar,Carb shale
+862.19,2,7.49529,2.28428,35.6032,104.91,117.196,265.991,Shaly coal ,Barakar,coal
+862.34,2,7.49741,2.27185,37.0673,108.856,116.449,238.333,Coal,Barakar,coal
+862.45,2,7.4967,2.23456,36.7938,121.273,116.447,239.025,Sandstone (pebbles),Barakar,Sandstone (SST)
+862.83,2,7.49529,1.82442,33.8617,117.378,118.025,174.03,Coal,Barakar,coal
+863,2,7.49741,1.96163,39.4472,114.89,118.349,183.019,Carbonaceous shale,Barakar,Carb shale
+863.79,2,7.4967,2.30321,68.4655,121.862,118.309,164.35,Coarse grained Sandstone with secondary mineralization,Barakar,Sandstone (SST)
+863.91,2,7.49812,2.34008,59.8172,116.516,118.309,181.636,Shaly coal ,Barakar,coal
+864.18,2,7.49883,2.30409,53.7273,132.472,118.167,239.025,Gray shale with coal streaks,Barakar,Grey Shale
+864.45,2,7.49953,1.93659,43.2976,170.038,117.924,194.773,Sandy Shale,Barakar,ss
+865.37,2,7.49529,1.83051,64.1162,147.791,117.783,206.527,"Medium grained sandstone with shale laminae, micaceous",Barakar,Sandstone (SST)
+865.67,2,7.49458,2.1465,62.0544,140.538,117.702,239.025,Shaly Coal,Barakar,coal
+866.55,2,7.49812,2.04905,76.745,123.99,117.843,183.019,Grey Shale ,Barakar,Grey Shale
+866.91,2,7.496,2.36749,64.9369,149.413,117.864,172.647,Coarse grained Sandstone with secondary mineralization,Barakar,Sandstone (SST)
+867.23,2,7.49812,2.44258,59.8103,159.106,117.317,142.915,Intercalation sand<shale,Barakar,ss
+867.5,2,7.49953,2.31673,66.2182,183.463,117.52,156.744,Coarse grained Sandstone with secondary mineralization,Barakar,Sandstone (SST)
+867.7,2,7.50024,2.10378,71.3894,154.134,117.58,174.03,Carbonaceous Shale,Barakar,Carb shale
+867.75,2,7.50024,2.06451,71.9386,142.278,118.066,183.019,Shaly Coal,Barakar,coal
+867.85,2,7.50095,2.05239,71.7109,127.25,118.066,186.476,Sandy Shale,Barakar,ss
+867.95,2,7.50024,2.11576,69.6983,126.669,118.329,210.676,Medium grained sandstone,Barakar,Sandstone (SST)
+868.05,2,7.50024,2.20071,68.7809,126.962,118.329,228.653,Fine grained sandstone with shale laminae,Barakar,Sandstone (SST)
+868.45,2,7.49741,2.36518,99.252,126.147,117.985,205.836,Coarse grained sandstone( Conglomeratic),Barakar,Sandstone (SST)
+868.7,2,7.49812,2.34237,92.8169,143.729,117.904,205.144,Dark grey shale with coal streaks,Barakar,dgs
+869.2,2,7.50519,2.21253,39.4485,141.462,117.904,223.122,Dark grey shale,Barakar,dgs
+869.58,2,7.50661,2.14609,39.265,145.839,118.147,226.579,Coal,Barakar,coal
+870.35,2,7.49246,2.33847,51.2539,116.573,118.471,203.762,Dark grey shale ,Barakar,dgs
+872,2,7.50024,1.62764,46.4429,219.51,114.444,156.053,Dark grey shale with secondary mineralisation,Barakar,dgs
+872.9,2,7.49387,2.2433,59.0765,117.501,118.106,209.985,Dark gray Shale,Barakar,dgs
+876,2,7.4677,2.45287,59.4449,104.966,119.299,241.79,Medium grained to coarse grained sandstone,Barakar,Sandstone (SST)
+876.11,2,7.4677,2.45928,59.9022,107.809,119.3,249.396,Dark grey Shale with coal band,Barakar,dgs
+876.5,2,7.47194,2.50437,64.9814,122.318,119.32,214.825,Coarse grained sansstone with white secondary  mineralisition,Barakar,Sandstone (SST)
+876.7,2,7.47548,2.54185,64.525,130.619,119.3,199.613,Dark grey Shale,Barakar,dgs
+878.9,2,7.47406,2.2898,38.4404,112.105,118.935,194.082,Coarse to very coarse grained sandstone with shale at bottom,Barakar,Sandstone (SST)
+879.4,2,7.46699,2.34464,63.6515,102.582,118.471,203.762,Dark grey shale,Barakar,dgs
+880,2,7.46416,2.42223,66.4928,118.899,118.754,225.196,Coarse grained Sandstone,Barakar,Sandstone (SST)
+880.06,2,7.46487,2.42578,66.5383,116.344,118.754,207.219,Dark grey Shale,Barakar,dgs
+881,2,7.50944,2.48053,52.3065,104.969,118.774,190.624,Coarse to very Coarse grained Sandstone (gritty),Barakar,Sandstone (SST)
+882.18,2,7.47194,2.40704,55.5525,119.358,118.794,240.408,Coarse grained Sandstone (Pebbly),Barakar,Sandstone (SST)
+884,2,7.46557,2.47963,64.8452,174.646,118.005,204.453,Dark Grey Shale with white secondary mineralisation,Barakar,dgs
+884.43,2,7.46699,2.53255,59.0341,179.77,118.005,173.338,Shaly Sandstone,Barakar,Sandstone (SST)
+884.93,2,7.46487,2.44506,52.9014,126.96,118.734,191.316,Dark grey shale,Barakar,dgs
